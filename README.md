@@ -1,2 +1,2 @@
-# Octabit2
-Pagina de nuestra empresa de proyecto
+# Octabit
+Our company as creator of IT solutions.
